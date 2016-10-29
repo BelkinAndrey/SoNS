@@ -1,0 +1,19 @@
+<NetSave>
+  <AreaGlobal P0="5" N0="-1" P1="10" N1="-2" P2="10" N2="-3" P3="10" N3="-4" P4="10" N4="-4" P5="5" N5="-3" P6="-1" N6="-2" P7="-0.9" N7="-2" P8="-0.6" N8="-2" P9="-0.3" N9="-2" P10="-0.2" N10="-1" P11="-0.1" N11="-1" P12="-0.05" N12="-1" P13="0" N13="-1" P14="0" N14="-1" P15="0" N15="0" />
+  <N index="1" x="-12.71882" y="15.96231" z="-0.03320041" type="0" IndexArea="-1">
+    <S target="3" type="0" force="10" />
+  </N>
+  <N index="2" x="-12.95765" y="29.98504" z="2.860573" type="0" IndexArea="-1">
+    <S target="3" type="0" force="-20" />
+  </N>
+  <N index="3" x="2.624225" y="24.032" z="0.005023107" type="0" IndexArea="-1" />
+  <Scripts />
+  <Entry>
+    <Element Index="5" target="1" />
+    <Element Index="6" target="2" />
+  </Entry>
+  <EntryBlock />
+  <output>
+    <Element Index="7" target="3" />
+  </output>
+</NetSave>
