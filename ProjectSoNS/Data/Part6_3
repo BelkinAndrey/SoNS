@@ -1,0 +1,35 @@
+<NetSave>
+  <AreaGlobal P0="5" N0="-1" P1="10" N1="-2" P2="10" N2="-3" P3="10" N3="-4" P4="10" N4="-4" P5="5" N5="-3" P6="-1" N6="-2" P7="-0.9" N7="-2" P8="-0.6" N8="-2" P9="-0.3" N9="-2" P10="-0.2" N10="-1" P11="-0.1" N11="-1" P12="-0.05" N12="-1" P13="0" N13="-1" P14="0" N14="-1" P15="0" N15="0" />
+  <Area index="0" Name="Area brain" Ball="-" x="-13.87637" y="44.96926" z="41.99048" S="57.38091" H="61.51527" L="20" R="10" ColorR="1" ColorG="1" ColorB="1">
+    <Spaik P0="5" N0="-1" P1="10" N1="-2" P2="10" N2="-3" P3="10" N3="-4" P4="10" N4="-4" P5="5" N5="-3" P6="-1" N6="-2" P7="-0.9" N7="-2" P8="-0.6" N8="-2" P9="-0.3" N9="-2" P10="-0.2" N10="-1" P11="-0.1" N11="-1" P12="-0.05" N12="-1" P13="0" N13="-1" P14="0" N14="-1" P15="0" N15="0" />
+  </Area>
+  <N index="1" x="-35.5405" y="65.10946" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="2" x="9.444498" y="65.10946" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="3" x="-35.5405" y="17.75138" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="4" x="8.46096" y="17.38468" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="5" x="-19.63924" y="65.10946" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="6" x="-5.024429" y="65.10946" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="7" x="-35.5405" y="39.50518" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="8" x="-19.21289" y="41.61589" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="9" x="-4.033291" y="39.53924" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="10" x="10.31081" y="40.41047" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="11" x="-19.8216" y="17.6675" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <N index="12" x="-3.65965" y="18.00497" z="44.48199" type="2" Plasticity="0.2" BasicPlasticity="0.2" IndexArea="0" />
+  <Scripts />
+  <Entry>
+    <Element Index="0" target="3" />
+    <Element Index="1" target="10" />
+    <Element Index="2" target="9" />
+    <Element Index="3" target="8" />
+    <Element Index="4" target="7" />
+    <Element Index="5" target="2" />
+    <Element Index="6" target="6" />
+    <Element Index="7" target="1" />
+    <Element Index="8" target="5" />
+    <Element Index="9" target="4" />
+    <Element Index="10" target="12" />
+    <Element Index="11" target="11" />
+  </Entry>
+  <EntryBlock />
+  <output />
+</NetSave>
