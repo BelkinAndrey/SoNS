@@ -1,6 +1,8 @@
 # SoNS
 Simulation of nervous system
 
+![](https://habrastorage.org/files/02f/2c1/0af/02f2c10af00a4989859a486beee2b015.jpg)
+
 Статьи на GeekTimes:
 
 1. [Симулятор нервной системы. Часть 1. Простой сумматор](https://geektimes.ru/post/280070/)
