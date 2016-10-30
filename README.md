@@ -12,7 +12,7 @@ Simulation of nervous system
 
 
 На YouTube:
-https://www.youtube.com/playlist?list=PLp1RVIIRg5hjJUjXADsmo7FjzvdB4mWWb
+[Simulation natural neural network](https://www.youtube.com/playlist?list=PLp1RVIIRg5hjJUjXADsmo7FjzvdB4mWWb)
 https://www.youtube.com/playlist?list=PLp1RVIIRg5hhPk55C8yoLpxEKPzjqZIhF
 
 Актуальные на 10.2016 билды:
